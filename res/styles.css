@@ -1,0 +1,12 @@
+/* Soft.css */
+.main > .content .card .image {
+	border-radius: 10px;
+}
+.prev-next-links .cont .previous-link, 
+.prev-next-links .cont .next-link {
+	border-radius: 7px;
+}
+.folders .foldercard {
+	border-radius: 10px;
+	overflow: hidden;
+}
